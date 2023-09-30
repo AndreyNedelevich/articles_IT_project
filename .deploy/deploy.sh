@@ -1,5 +1,5 @@
-cd ~/article
+cd ~/article_IT_project
 npm run build:prod
 
-rm -rf ~/../var/www/production_project/html
-mv ~/production-project/build ~/../var/www/production_project/html
+rm -rf ~/../var/www/article-project/html
+mv ~/articles_IT_project/build ~/../var/www/article-project/html
