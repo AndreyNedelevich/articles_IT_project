@@ -1760,18 +1760,18 @@
   ],
   "users": [
     {
+      "avatar": "https://mobimg.b-cdn.net/v3/fetch/22/2207633df03a819cd72889249c8361a8.jpeg?w=1470&r=0.5625",
+      "features": {},
       "id": "1",
-      "username": "admin",
+      "jsonSettings": {
+        "isArticlesPageWasOpened": true,
+        "theme": "app_light_theme"
+      },
       "password": "123",
       "roles": [
         "ADMIN"
       ],
-      "features": {},
-      "avatar": "https://mobimg.b-cdn.net/v3/fetch/22/2207633df03a819cd72889249c8361a8.jpeg?w=1470&r=0.5625",
-      "jsonSettings": {
-        "isArticlesPageWasOpened": true,
-        "theme": "app_light_theme"
-      }
+      "username": "admin"
     },
     {
       "id": "2",
