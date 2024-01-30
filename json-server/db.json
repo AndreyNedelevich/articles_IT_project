@@ -1765,7 +1765,7 @@
       "id": "1",
       "jsonSettings": {
         "isArticlesPageWasOpened": true,
-        "theme": "app_light_theme"
+        "theme": "app_dark_theme"
       },
       "password": "123",
       "roles": [
