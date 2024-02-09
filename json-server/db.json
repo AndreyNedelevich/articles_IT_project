@@ -1765,17 +1765,17 @@
       "id": "1",
       "jsonSettings": {
         "isArticlesPageWasOpened": true,
-        "theme": "app_dark_theme"
+        "theme": "app_light_theme"
       },
       "password": "123",
       "roles": [
         "ADMIN"
       ],
-      "username": "admin"
+      "username": "user1"
     },
     {
       "id": "2",
-      "username": "user",
+      "username": "user2",
       "password": "123",
       "roles": [
         "USER"
@@ -1789,7 +1789,7 @@
     },
     {
       "id": "3",
-      "username": "user",
+      "username": "manager",
       "password": "123",
       "roles": [
         "MANAGER"
