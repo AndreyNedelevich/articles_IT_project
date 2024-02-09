@@ -99,7 +99,7 @@ Authorization data for the user:
  "password": "123"
   },
   {
-    "username": "user2,
+    "username": "user2",
  "password": "123"
   },
   {
