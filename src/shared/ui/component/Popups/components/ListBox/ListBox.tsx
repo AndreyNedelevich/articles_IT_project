@@ -45,6 +45,7 @@ export function ListBox<T extends string>(props: ListBoxProps<T>) {
         return items?.find((item) => item.value === value);
     }, [items, value]);
 
+
     return (
         <HStack gap="4">
             {label && <span>{`${label}>`}</span>}
@@ -61,6 +62,7 @@ export function ListBox<T extends string>(props: ListBoxProps<T>) {
                 <HListBox.Button
                     as={Button}
                     variant="filled"
+                    // @ts-ignore
                     disabled={readonly}
                     addonRight={<Icon Svg={ArrowIcon} />}
                 >

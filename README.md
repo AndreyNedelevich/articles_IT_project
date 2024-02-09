@@ -88,3 +88,26 @@ Whenever possible, reusable entities should be normalized using the EntityAdapte
 Server requests are sent using [RTK query](/src/shared/api/rtkApi.ts)
 
 
+## Authorization data
+
+Authorization data for the user:
+
+```json
+[
+  {
+    "username": "user1",
+ "password": "123"
+  },
+  {
+    "username": "user2,
+ "password": "123"
+  },
+  {
+    "username": "manager",
+    "password": "123"
+  },
+  {
+    "username": "testuser",
+    "password": "123"
+  }
+]
